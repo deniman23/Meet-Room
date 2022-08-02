@@ -76,3 +76,21 @@ button
     margin-left: 193px;
     margin-top: 52px;
 }
+
+
+
+/* Meet Room заголовок в Enter Page */
+.enter_page_meet_room
+{
+    padding-left: 607px ;
+    width: 225px;
+    height: 38px;
+    left: 607px;
+    top: 21px;
+
+    font-family: 'Krona One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 38px;
+}
