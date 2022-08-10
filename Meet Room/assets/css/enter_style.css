@@ -5,9 +5,11 @@ body{
     width: 1440px;
     height: 1024px;
     background-color:#EFEFEF ;}
-
-
 a{
+    text-decoration: none;
+}
+
+.forget_password{
     font-family: 'Raleway', sans-serif;
     font-size: 15px;
     color: #9D9D9D;
@@ -17,43 +19,18 @@ a{
 
 header{
     width: 792px;
-height: 38px;
-left: 40px;
-top: 21px;
-}
-
-.to_main
-{
-    width: 130px;
-    height: 29px;
+    height: 38px;
     left: 40px;
-    top: 26px;
+    top: 21px;
 }
-
-.to_main_text
+.text_to_main
 {
-    width: 99px;
-    height: 29px;
-    left: 71px;
-    top: 26px;
-    
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 25px;
-    line-height: 29px;
-}
-
-/* Meet Room заголовок в Enter Page */
-.enter_page_meet_room
-{
-    
-
     font-family: 'Krona One', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 30px;
     line-height: 38px;
+    color: black;
 }
 
 /* Auth-form */
