@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rWl4V2KSkLcD1AOVbFIOjM76Pmtqfa8XpPEivwn3eas=",
+  "Source": "FileServer",
+  "BasePath": "_content/FileServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
