@@ -2,7 +2,7 @@ var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
 app.MapGet("/", async context => {
-    var fileStream = File.ReadAllText(path: "../wwwroot/index.html");
+    var fileStream = File.ReadAllText(path: "/Users/daniiltolkachev/Meet-Room/wwwroot/index.html");
 
     context.Response.Headers.ContentType = "text/html";
     context.Response.StatusCode = 200;

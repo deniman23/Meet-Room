@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/daniiltolkachev/Desktop/FileServer/FileServer.csproj",
+      "projectUniqueName": "/Users/daniiltolkachev/Meet-Room/FileServer.csproj",
       "projectName": "FileServer",
-      "projectPath": "/Users/daniiltolkachev/Desktop/FileServer/FileServer.csproj",
+      "projectPath": "/Users/daniiltolkachev/Meet-Room/FileServer.csproj",
       "packagesPath": "/Users/daniiltolkachev/.nuget/packages/",
-      "outputPath": "/Users/daniiltolkachev/Desktop/FileServer/obj/",
+      "outputPath": "/Users/daniiltolkachev/Meet-Room/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/daniiltolkachev/.nuget/NuGet/NuGet.Config"
